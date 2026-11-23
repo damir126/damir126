@@ -46,4 +46,5 @@ machine learning and computer vision.
 ## Contact
 
 - GitHub: [@damir126](https://github.com/damir126)
-- Telegram / LinkedIn: *add your links here*
+- LinkedIn: [Damirbek G‘ofurov](https://www.linkedin.com/in/damirbek-g%E2%80%99ofurov-63794133a/)
+- Telegram: [@gafurov_126](https://t.me/gafurov_126)
